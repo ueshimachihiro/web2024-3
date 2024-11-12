@@ -1,1 +1,1 @@
-function imgchange1(){document.getElementById('logo').src='./image/masukottokyara.jpg';}
+function imgchange1(){document.getElementById('logo').src='./image/masukottoCharacter.jpg';}
