@@ -13,3 +13,8 @@ function mes(){ alert("3秒経ちました!"); }
 //document.timer13.moji13.value ="";}
 //setTimeout()を含む関数を呼び出す
 //setTimeout("hyoji13()",1000);}
+
+//function imgchange1(){document.getElementById('logo').src='./image/masukottocharacter.jpg';}
+//function imgchange2(){document.getElementById('logo').src='./image/logo.png';}
+//function imgchange3(){document.getElementById('josai').src='./image/masukottocharacter.jpg';}
+//function imgchange4(){document.getElementById('josai').src='./image/logo.png';}
