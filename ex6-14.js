@@ -1,5 +1,5 @@
-function imgchange6(){src='./image/logo.png';}
 function imgchange5(){document.getElementById('josai logo').src='./image/masukottocharacter.jpg';}
+function imgchange6(){document.getElementById('josai logo').src='./image/logo.png';}
 //function hyoji13(){
 //表示する文字
 //var str13 = "一文字ずつ表示します。";
