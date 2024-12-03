@@ -1,4 +1,4 @@
-function mes(){src='./image/logo.png';}
+function imgchange6(){src='./image/logo.png';}
 function imgchange5(){document.getElementById('josai logo').src='./image/masukottocharacter.jpg';}
 //function hyoji13(){
 //表示する文字
