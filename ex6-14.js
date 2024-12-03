@@ -1,4 +1,4 @@
-function mes(){ alert("3秒経ちました!"); }
+function mes(){src='./image/logo.png';}
 function imgchange5(){document.getElementById('josai logo').src='./image/masukottocharacter.jpg';}
 //function hyoji13(){
 //表示する文字
@@ -14,3 +14,5 @@ function imgchange5(){document.getElementById('josai logo').src='./image/masukot
 //document.timer13.moji13.value ="";}
 //setTimeout()を含む関数を呼び出す
 //setTimeout("hyoji13()",1000);}
+
+//img src='./image/logo.png' id="josai logo" alt="Josai Logo";
